@@ -1,4 +1,4 @@
-# ESP32 NAT Router
+# ESP32 NAT Router - Modified to run on a Wemos Lolin with 1.54In e-paper
 
 This is a firmware to use the ESP32 as WiFi NAT router. It routes between the network of the AP interface and the STA or ETH interface as uplink network. It can also work as a VPN router using WireGuard as uplink.
 
